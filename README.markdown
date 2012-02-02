@@ -1,3 +1,3 @@
 ##The   MINICOMP
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
-![Under Construction](/constructocat2.jpg)
+![Under Construction](http://dl.dropbox.com/u/20400183/webhost/constructocat2.jpg)
