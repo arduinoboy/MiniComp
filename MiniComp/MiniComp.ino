@@ -25,7 +25,7 @@ Bade on Boot
 
 
 // Defs
-
+int mval;
 
 // pin 7 - Serial clock out (SCLK)
 // pin 6 - Serial data out (DIN)
@@ -45,7 +45,7 @@ void setup(void) {
 
 
 void loop() {
-  
+  mainm();
 }
 
 
@@ -60,4 +60,11 @@ void intlcdm(){
   delay(5000);
 }
   
-  
+//Main Menu
+void mainm(){
+  //
+  char* lnone = "PRGM ONE";
+  char* lntwo = "PRGM TWO";
+  char* lnthree = "PRGM THREE";
+}
+
