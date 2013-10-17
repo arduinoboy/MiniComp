@@ -56,8 +56,8 @@ void intlcdm(){
   nokia.println("MiniComp");
   nokia.println("V0.1B");
   nokia.println("Josephs Badge");
-  nokia.display();        // show the changes to the buffe
-  delay(1000);
+  nokia.display();        // show the changes to the buffer
+  delay(5000);
 }
   
   
