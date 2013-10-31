@@ -66,5 +66,6 @@ void mainm(){
   char* lnone = "PRGM ONE";
   char* lntwo = "PRGM TWO";
   char* lnthree = "PRGM THREE";
+  digitalWrite( 13, HIGH);
 }
 
